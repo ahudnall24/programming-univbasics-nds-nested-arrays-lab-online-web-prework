@@ -31,7 +31,7 @@ def array_literal_matrix
   ENNET_HOUSE=["Bruce Green", "Don Gately","Joelle van Dyne","Kate Gompert","Pat M."]# Using Array literal syntax only, build a nested array that uses the data in
   ENFIELD_TENNIS_ACADEMY=["Gerhard Schtitt", "Hal Incandenza","Lyle","Mario Incandenza","Michael Pemulis"
   
-  ]#=>[["Bruce Green", "Don Gately","Joelle van Dyne","Kate Gompert","Pat M."]
+  ]#=>[["Bruce Green", "Don Gately",Gerhard Schtitt","Hal Incandenza","Joelle van Dyne","Kate Gompert","Lyle","Mario Incandenza","Michael Pemulis","Pat M."]
   
   
   
